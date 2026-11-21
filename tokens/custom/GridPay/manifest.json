@@ -1,0 +1,9 @@
+[
+  {
+    "name": "GridPay Token",
+    "symbol": "GPT",
+    "address": "0x40325eEcC782c29E1335b36c4FC6B8b18Eb069F3",
+    "chainId": 42161,
+    "decimals": 18
+  }
+]
